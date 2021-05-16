@@ -4,6 +4,9 @@
 After inserting the data, the code retrieves the details of the student who gets placed in a company with the highest package.
 </br>
 
+*I have taken marvel characters as students* 
+</br>
+
 **Follow the following steps for running the code**
 1. Download connector tar file from this [link](https://dev.mysql.com/downloads/connector/j/). Select OS as Platform Independent.
 1. Start xampp.

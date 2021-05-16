@@ -1,5 +1,5 @@
 # JDBC-database-creation-insertion-and-retrieval
-### This is a sample program for creating a table in MySQL ,inserting and extracting data into a table in the database using Java Programming (JDBC) 
+### This is a sample program for creating a table in MySQL, inserting and extracting data into a table in the database using Java Programming (JDBC) 
 > The java program store details of students (name , photo, register number, city, company placed and salary and CGPA) by connecting Java Application with mysql database. 
 After inserting the data, the code retrieves the details of the student who gets placed in a company with the highest package.
 </br>

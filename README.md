@@ -1,11 +1,11 @@
 # JDBC-database-creation-insertion-and-retrieval
-### This is a sample prograam for creating a table in MySQL ,insert and extract data into a table in the database using Java Programming (JDBC) 
+### This is a sample program for creating a table in MySQL ,inserting and extracting data into a table in the database using Java Programming (JDBC) 
 > The java program store details of students (name , photo, register number, city, company placed and salary and CGPA) by connecting Java Application with mysql database. 
 After inserting the data, the code retrieves the details of the student who gets placed in a company with the highest package.
 </br>
 
 **Follow the following steps for running the code**
-1. Download connector tae file from this [link](https://dev.mysql.com/downloads/connector/j/). Select OS as Platform Independent.
+1. Download connector tar file from this [link](https://dev.mysql.com/downloads/connector/j/). Select OS as Platform Independent.
 1. Start xampp.
 1. Turn on Apache and Mysql.
 1. Create a MySQL database in phpmyadmin
